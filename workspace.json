@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "b92c88b629d4d1dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a08eeb9da064e2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ad6a73e99ed2f60",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          },
+          {
+            "id": "e7e297f879b52173",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "widgets agregadores.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "widgets agregadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d74e55fec9f2d58c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b85235d94b95003",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56c4e265e3915beb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "5bea4f31feb3b55d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "58d5984a641a2925",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "135c6881ba85b72d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad2af2b792a1e7c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e75bca841dec76a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5cf9c6cdc992c97a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "61e0efba307fe90c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d1e534ea685450ec",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "9ad6a73e99ed2f60",
+  "lastOpenFiles": [
+    "widgets agregadores.md",
+    "Entendendo o Dart/criando meu primeiro app/outras entradas de imagens.md",
+    "Entendendo o Dart/criando meu primeiro app/Widgets do Flutter.md",
+    "Entendendo o Dart/Conhecendo o Dart/Dart/A história do Dart.md",
+    "Sem título.canvas",
+    "Entendendo o Dart/Conhecendo o Dart/Orientação a objetos/Construtores.md",
+    "Entendendo o Dart/criando meu primeiro app/Criando meu primeiro App.md",
+    "Entendendo o Dart/Integrando APIs com assincronísmo e tratamento de exceções/dominando assincronismo e criando comunicação com APIs/Integrando APIs com assincronísmo e tratamento de exceções.md",
+    "Entendendo o Dart/Conhecendo o Dart/Conceitos de algoritmo/Conceitos de algoritmos.md",
+    "Entendendo o Dart/criando meu primeiro app"
+  ]
+}
